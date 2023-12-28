@@ -9,4 +9,7 @@
 [<img align="left" alt="daria.kantaeva29@gmail.com" width="22px" src="https://www.pngwing.com/ru/free-png-ahehs" />][gmail]
 [<img align="left" alt="https://t.me/kantaevad" width="22px" src="https://www.pngwing.com/ru/free-png-saggv" />][telegram]
 
+[![Gmail](https://www.pngwing.com/ru/free-png-ahehs)](mailto:daria.kantaeva29@gmail.com)
+[![Telegram](https://www.pngwing.com/ru/free-png-saggv)](https://t.me/kantaevad)
+
 <br />
