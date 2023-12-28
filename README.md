@@ -6,7 +6,5 @@
 - ⚡ My past work experience: analyst, head of educational studios in a Montessori school, program director, marketer.**
 
 ### Connect with me:
-[![Gmail](mailto:daria.kantaeva29@gmail.com) 
-[![Telegram](https://t.me/kantaevad)
-
-<br />
+[Gmail](mailto:daria.kantaeva29@gmail.com) 
+[Telegram](https://t.me/kantaevad)
