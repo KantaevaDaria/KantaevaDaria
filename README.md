@@ -10,7 +10,6 @@
 [Telegram](https://t.me/kantaevad)
 
 ### Languages and Tools:
-- python
-- sql
-- tableau
-- trello
+- python, sql
+- pandas, nympy, scipy, math, datetime, matplotlib, seaborn, plotly...
+- jupyter notebook,tableau, trello
