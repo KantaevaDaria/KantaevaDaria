@@ -1,4 +1,4 @@
-### Hi there, I'm Daria Kantaeva - aka KantaevaDaria 👋
+### Hi there, I'm Daria Kantaeva👋
 
 ## I'm an analyst!
 - 🔭 This year I completed my studies in Data Analytics. Now I'm looking for a job.
