@@ -11,5 +11,5 @@
 
 ### Languages and Tools:
 - python, sql
-- pandas/ matplotlib/ когортный анализ/ юнит-экономика/ продуктовые метрики/ A/B-тестирование/ scipy/ событийная аналитика/ plotly/ проверка статистических гипотез/ визуализация данных
+- pandas/ matplotlib/ cohort analysis/ unit economics/ product metrics/ A/B testing/ scipy/ event analytics/ plotly/ statistical hypothesis testing/ data visualization
 - jupyter notebook, tableau, trello
