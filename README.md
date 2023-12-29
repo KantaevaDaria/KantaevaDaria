@@ -11,5 +11,5 @@
 
 ### Languages and Tools:
 - python, sql
-- pandas, nympy, scipy, math, datetime, matplotlib, seaborn, plotly...
-- jupyter notebook,tableau, trello
+- pandas/ matplotlib/ когортный анализ/ юнит-экономика/ продуктовые метрики/ A/B-тестирование/ scipy/ событийная аналитика/ plotly/ проверка статистических гипотез/ визуализация данных
+- jupyter notebook, tableau, trello
