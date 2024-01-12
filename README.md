@@ -1,15 +1,15 @@
-### Hi there, I'm Daria Kantaeva👋
+### Привет, меня зовут Дарья Кантаева👋
 
-## I'm a data analyst!
-- 🔭 This year I completed my studies in Data Analytics. Now I'm actively looking for a job. 
-- ☀️ I moved to Cyprus in 2023, it would be great to find a job here!
-- ⚡ My past work experience: data analyst, head of educational studios in a Montessori school, program director, marketer.
+## Я аналитик данных.
+- 🔭 В этом году я завершила обучение по аналитике данных в Яндекс Практикуме. 
+- ☀️ В 2023 году я переехала на Кипр и стремлюсь найти работу здесь!
+- ⚡ Мой предыдущий опыт работы: аналитик данных, руководитель образовательных студий в монтессори школе, программный директор, маркетолог.
 
-### Connect with me:
+### Всегда на связи:
 [Gmail](mailto:daria.kantaeva29@gmail.com) 
 [Telegram](https://t.me/kantaevad)
 
-### Languages and Tools:
+### Языки и инструменты:
 - python, sql
-- pandas/ matplotlib/ cohort analysis/ unit economics/ product metrics/ A/B testing/ scipy/ event analytics/ plotly/ statistical hypothesis testing/ data visualization
+- pandas, scipy, math, matplotlib, plotly, seaborn, когортный анализ, юнит экономика, продуктовые метрики, A/B тестирование, событийная аналитика, проверка статистических гипотез, визуализация данных, построение дашбордов 
 - jupyter notebook, tableau, trello
