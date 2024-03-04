@@ -12,5 +12,5 @@
 ### Языки и инструменты:
 - python, sql
 - pandas, scipy, math, matplotlib, plotly, seaborn, когортный анализ, юнит экономика, продуктовые метрики, A/B тестирование, событийная аналитика, проверка статистических гипотез, визуализация данных, построение дашбордов 
-- jupyter notebook, tableau, trello
+- jupyter notebook, tableau, Yandex DataLens, trello
 - English B1
